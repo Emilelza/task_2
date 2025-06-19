@@ -4,6 +4,10 @@
 }
 
 body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
     background-color:rgb(220, 231, 241);
     text-align:center;
     line-height:10px;
