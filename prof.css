@@ -10,7 +10,7 @@ body{
     height:100vh;
     background-color:rgb(220, 231, 241);
     text-align:center;
-    line-height:1.8em;
+    line-height:20px;
     font-family:monospace;
     font-size:12px;
 }
@@ -59,11 +59,6 @@ body{
 .big{
     margin-left:15px;
 }
-
-.pro strong{
-    font-size:25px;
-}
-
 .pro{
     border:none;
     margin:20px auto;
